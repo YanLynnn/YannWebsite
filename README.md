@@ -1,2 +1,2 @@
 # YannWebsite
-simple portofolio
+simple website
